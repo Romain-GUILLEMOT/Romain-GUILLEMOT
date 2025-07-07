@@ -1,0 +1,47 @@
+# .github/workflows/snake.yml
+
+name: Generate Contribution Snake
+
+on:
+  # Exécute l'action tous les jours à minuit UTC.
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Permet de lancer l'action manuellement depuis l'onglet "Actions" de GitHub.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Étape 1: On récupère le contenu du repo pour pouvoir y commiter plus tard
+      - uses: actions/checkout@v4
+
+      # Étape 2: On utilise l'action "snk" pour générer l'image SVG
+      - uses: Platane/snk@v3
+        with:
+          # Ton nom d'utilisateur GitHub (récupéré automatiquement)
+          github_user_name: ${{ github.repository_owner }}
+
+          # Personnalisation des couleurs pour correspondre à ton thème
+          # On génère un SVG avec le serpent de ta couleur accent (#00F5A0)
+          # et des points de contribution dans des tons gris foncés.
+          outputs: dist/snake.svg?palette=github-dark&color_snake=#00F5A0&color_dots=#202020,#353535,#4d4d4d,#666666,#7d7d7d
+
+        # Le token GITHUB_TOKEN est nécessaire pour que l'action puisse accéder à l'API GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Étape 3: On commit le nouveau fichier SVG dans le repo
+      - name: Commit and push snake SVG
+        run: |
+          git config user.name 'GitHub Actions Bot'
+          git config user.email 'actions-bot@github.com'
+          git add dist/snake.svg
+          # On commit seulement si le fichier a changé
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(snake): update contribution snake"
+            git push
+          else
+            echo "No changes to commit."
+          fi

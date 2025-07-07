@@ -1,0 +1,8 @@
+# Fichiers système macOS
+.DS_Store
+*.DS_Store
+assets/.DS_Store
+
+# Dossier généré par l'action snake
+# C'est une bonne pratique car c'est un artéfact de build
+/dist
