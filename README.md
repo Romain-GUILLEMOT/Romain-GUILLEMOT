@@ -12,7 +12,7 @@ Je suis un spécialiste des systèmes et réseaux passionné par l'écosystème 
 
 ### 🧐 À Propos de Moi :
 
-- 🔭 &nbsp; Actuellement en alternance chez **Capgemini** et en 3ème année à **SupDeVinci**.
+- 🔭 &nbsp; Actuellement en alternance et en 3ème année à **SupDeVinci**.
 - 🤝 &nbsp; Toujours intéressé par des défis techniques et des projets stimulants.
 - 🌱 &nbsp; Focus du moment : l'automatisation CI/CD et l'amélioration de la qualité du code.
 - ⚙️ &nbsp; J'aime expérimenter avec des technologies variées, de l'infrastructure auto-hébergée aux plateformes cloud.
