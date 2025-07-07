@@ -1,23 +1,29 @@
-<div align="center">
-  <img src="assets/logo_rg.webp" alt="Bannière Romain Guillemot - DevOps & Cloud Engineer"/>
-</div>
+## Salut 👋, c'est Romain !
+<a href="https://www.linkedin.com/in/romain-guillemot-..." target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height='22px'/></a>
+<a href="https://romain-guillemot.dev" target="_blank"><img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=rss&logoColor=white" height='22px'/></a>
+<a href="mailto:contact@romain-guillemot.dev"><img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height='22px'/></a>
+<br clear="left"/>
 
-<p align="center">
-  <sub>
-    📍 Situé à Rennes, France |
-    <a href="https://romain-guillemot.dev" target="_blank">romain-guillemot.dev</a> |
-    <a href="mailto:contact@romain-guillemot.dev">contact@romain-guillemot.dev</a>
-  </sub>
-</p>
+Je suis un spécialiste des systèmes et réseaux passionné par l'écosystème DevOps et Cloud. Actuellement en 3ème année chez SupDeVinci et en alternance, je me spécialise dans la conception et l'automatisation d'infrastructures résilientes et sécurisées.
+<br/>
+<br/>
 
-Actuellement en **3ème année à SupDeVinci**, je suis un passionné de systèmes et réseaux qui a transformé cette curiosité en une véritable expertise grâce à mon parcours en **alternance**. Mon objectif est de concevoir et maintenir des infrastructures résilientes, hautement disponibles et entièrement automatisées.
+<img align="right" alt="GIF animé" src="./assets/techstack.gif" width="360px"/>
 
-Adepte de l'**open-source**, des solutions **auto-hébergées** et d'une approche *infrastructure-as-code*, je crois en une technologie sobre, sécurisée et performante. Je suis constamment en veille, explorant de nouveaux outils pour optimiser les performances et la sécurité des systèmes que je gère.
+### 🧐 À Propos de Moi :
 
+- 🔭 &nbsp; Actuellement en alternance chez **Capgemini** et en 3ème année à **SupDeVinci**.
+- 🤝 &nbsp; Toujours intéressé par des défis techniques et des projets stimulants.
+- 🌱 &nbsp; Focus du moment : l'automatisation CI/CD et l'amélioration de la qualité du code.
+- ⚙️ &nbsp; J'aime expérimenter avec des technologies variées, de l'infrastructure auto-hébergée aux plateformes cloud.
+- 💬 &nbsp; Discutons de **DevOps, d'architecture Cloud, de sécurité des systèmes** ou de votre animé préféré.
+- 📫 &nbsp; Le moyen le plus simple de me joindre est par [email](mailto:contact@romain-guillemot.dev).
+
+<br clear="both">
 
 ---
 
-### <p align="center">🛠️ Mon Arsenal Technique 🛠️</p>
+### 🔨 Mon Arsenal Technique:
 
 <p align="center">
   <strong>DevOps & Cloud</strong><br>
@@ -25,18 +31,12 @@ Adepte de l'**open-source**, des solutions **auto-hébergées** et d'une approch
 </p>
 <table border="0" align="center">
   <tr align="center">
-    <td>
-      <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" title="Docker"/></a>
-    </td>
-    <td>
-      <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/></a>
-    </td>
-    <td>
-      <a href="https://www.proxmox.com/" target="_blank"><img src="https://www.svgrepo.com/show/331552/proxmox.svg" height="40" alt="Proxmox" title="Proxmox"/></a>
-    </td>
-    <td>
-      <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions"/></a>
-    </td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes"/></a></td>
+    <td><a href="https://www.jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/></a></td>
+    <td><a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original-wordmark.svg" height="40" alt="SonarQube"/></a></td>
+    <td><a href="https://www.proxmox.com/" target="_blank"><img src="https://www.svgrepo.com/show/331552/proxmox.svg" height="40" alt="Proxmox"/></a></td>
+    <td><a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/></a></td>
   </tr>
 </table>
 
@@ -46,13 +46,12 @@ Adepte de l'**open-source**, des solutions **auto-hébergées** et d'une approch
 </p>
 <table border="0" align="center">
   <tr align="center">
-    <td><a href="https://golang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" title="Go"/></a></td>
-    <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" title="Python"/></a></td>
-    <td><a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.svgrepo.com/show/473774/rust.svg" height="40" alt="Rust" title="Rust"/></a></td>
-    <td><a href="https://laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel" title="Laravel"/></a></td>
-    <td><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" title="React / React Native"/></a></td>
-    <td><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" title="Next.js"/></a></td>
-    <td><a href="https://svelte.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" height="40" alt="Svelte" title="Svelte"/></a></td>
+    <td><a href="https://golang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go"/></a></td>
+    <td><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python"/></a></td>
+    <td><a href="https://laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel"/></a></td>
+    <td><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React"/></a></td>
+    <td><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js"/></a></td>
+    <td><a href="https://svelte.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" height="40" alt="Svelte"/></a></td>
   </tr>
 </table>
 
@@ -62,27 +61,22 @@ Adepte de l'**open-source**, des solutions **auto-hébergées** et d'une approch
 </p>
 <table border="0" align="center">
   <tr align="center">
-    <td><a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="Debian" title="Debian"/></a></td>
-    <td><a href="https://www.isc.org/bind/" target="_blank"><img src="https://www.isc.org/images/isclogos/Bind_9_Mark_ISC_Black.png" height="40" alt="BIND9" title="BIND9"/></a></td>
-    <td><a href="https://www.cisco.com/" target="_blank"><img src="https://www.svgrepo.com/show/448278/cisco.svg" height="40" alt="Cisco (CCNA)" title="Cisco (CCNA)"/></a></td>
-    <td><a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx"/></a></td>
-    <td><a href="https://www.wireshark.org/" target="_blank"><img src="https://www.svgrepo.com/show/377840/wireshark.svg" height="40" alt="Wireshark" title="Wireshark"/></a></td>
+    <td><a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="Debian"/></a></td>
+    <td><a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" height="40" alt="Cloudflare"/></a></td>
+    <td><a href="https://www.cisco.com/" target="_blank"><img src="https://www.svgrepo.com/show/448278/cisco.svg" height="40" alt="Cisco (CCNA)"/></a></td>
+    <td><a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/></a></td>
+    <td><a href="https://www.wireshark.org/" target="_blank"><img src="https://www.svgrepo.com/show/377840/wireshark.svg" height="40" alt="Wireshark"/></a></td>
   </tr>
 </table>
 
 ---
 
-### <p align="center">🐍 My GitHub Activity 🐍</p>
+### 📊 Mes Stats et Mon Activité GitHub
 <div align="center">
-  <img src="dist/snake.svg" alt="Snake contribution graph" />
+  <img src="https://raw.githubusercontent.com/Romain-GUILLEMOT/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview">
+  <img src="https://raw.githubusercontent.com/Romain-GUILLEMOT/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages">
 </div>
 
----
-
 <div align="center">
-<h3>Contactons-nous</h3>
-<p>Je suis toujours ouvert à discuter de nouvelles technologies, de projets ou d'opportunités.</p>
-<a href="mailto:contact@romain-guillemot.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/romain-guillemot-..." target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://romain-guillemot.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio"/></a>
+  <img src="dist/snake.svg" alt="Snake contribution graph" />
 </div>
