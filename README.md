@@ -68,6 +68,5 @@ Je suis un spécialiste des systèmes et réseaux passionné par l'écosystème 
   <img src="https://raw.githubusercontent.com/Romain-GUILLEMOT/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages">
 </div>
 
-<div align="center">
-  <img src="dist/snake.svg" alt="Snake contribution graph" />
-</div>
+
+  ![Snake animation](https://raw.githubusercontent.com/Romain-GUILLEMOT/Romain-GUILLEMOT/refs/heads/main/dist/snake.svg)
